@@ -1,6 +1,6 @@
 # Queue
 
-A custom queue implementation.
+A custom queue implementation from my [youtube tutorial](https://youtu.be/9VVGBuiMO7M).
 
 ## Why?
 
